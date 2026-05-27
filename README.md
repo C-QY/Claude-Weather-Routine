@@ -29,6 +29,7 @@ Gmail 邮件推送   提交到此仓库
 
 | 日期 | 头条 | 链接 |
 |------|------|------|
+| 2026-05-27 | Anthropic Closes Second $30B Round in 2026 at $900B+ Valuation | [查看](digests/2026/05/2026-05-27.md) |
 
 ---
 
