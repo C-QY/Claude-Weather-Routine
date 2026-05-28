@@ -29,6 +29,7 @@ Gmail 邮件推送   提交到此仓库
 
 | 日期 | 头条 | 链接 |
 |------|------|------|
+| 2026-05-28 | Claude Mythos Finds 10,000+ Bugs + Copilot Studio CUA GA + Anthropic $30B+ Close | [查看](digests/2026/05/2026-05-28.md) |
 | 2026-05-27 | Pope Leo XIV Encyclical on AI + Huawei Tau Law + Anthropic $30B Round | [查看](digests/2026/05/2026-05-27.md) |
 
 ---
