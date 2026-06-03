@@ -29,6 +29,7 @@ Gmail 邮件推送   提交到此仓库
 
 | 日期 | 头条 | 链接 |
 |------|------|------|
+| 2026-06-04 | Microsoft Build 2026: MAI-Thinking-1 Reasoning Model + MAI-Code-1-Flash for GitHub Copilot | [查看](digests/2026/06/2026-06-04.md) |
 | 2026-06-03 | HuggingFace Hub v1.0 Milestone + MISUMI Americas AI Sourcing Platform + Meta Hatch Agent | [查看](digests/2026/06/2026-06-03.md) |
 | 2026-06-02 | NVIDIA Launches Cosmos 3: World's First Open Physical AI Omnimodel | [查看](digests/2026/06/2026-06-02.md) |
 | 2026-06-01 | Claude Opus 4.8 Sets New SOTA Coding Benchmark at 69.2% SWE-Bench Pro | [查看](digests/2026/06/2026-06-01.md) |
