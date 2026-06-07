@@ -29,6 +29,7 @@ Gmail 邮件推送   提交到此仓库
 
 | 日期 | 头条 | 链接 |
 |------|------|------|
+| 2026-06-08 | NVIDIA Nemotron 3 Ultra: Highest-Scoring US Open-Weight Model with Full Permissive Weights | [查看](digests/2026/06/2026-06-08.md) |
 | 2026-06-05 | OpenAI Updates GPT-Rosalind with New Life-Science Benchmarks and Biodefense Program | [查看](digests/2026/06/2026-06-05.md) |
 | 2026-06-04 | Microsoft Build 2026: MAI-Thinking-1 Reasoning Model + MAI-Code-1-Flash for GitHub Copilot | [查看](digests/2026/06/2026-06-04.md) |
 | 2026-06-03 | HuggingFace Hub v1.0 Milestone + MISUMI Americas AI Sourcing Platform + Meta Hatch Agent | [查看](digests/2026/06/2026-06-03.md) |
